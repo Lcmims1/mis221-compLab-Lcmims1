@@ -1,0 +1,15 @@
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/bin/Debug/net5.0/mis221-compLab-Lcmims1-2.deps.json
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/bin/Debug/net5.0/mis221-compLab-Lcmims1-2.runtimeconfig.json
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/bin/Debug/net5.0/mis221-compLab-Lcmims1-2.runtimeconfig.dev.json
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/bin/Debug/net5.0/mis221-compLab-Lcmims1-2.dll
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/bin/Debug/net5.0/ref/mis221-compLab-Lcmims1-2.dll
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/bin/Debug/net5.0/mis221-compLab-Lcmims1-2.pdb
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/obj/Debug/net5.0/mis221-compLab-Lcmims1-2.csprojAssemblyReference.cache
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/obj/Debug/net5.0/mis221-compLab-Lcmims1-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/obj/Debug/net5.0/mis221-compLab-Lcmims1-2.AssemblyInfoInputs.cache
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/obj/Debug/net5.0/mis221-compLab-Lcmims1-2.AssemblyInfo.cs
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/obj/Debug/net5.0/mis221-compLab-Lcmims1-2.csproj.CoreCompileInputs.cache
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/obj/Debug/net5.0/mis221-compLab-Lcmims1-2.dll
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/obj/Debug/net5.0/ref/mis221-compLab-Lcmims1-2.dll
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/obj/Debug/net5.0/mis221-compLab-Lcmims1-2.pdb
+/Users/carlizmims/Desktop/source/repos/mis221-compLab-Lcmims1-2/obj/Debug/net5.0/mis221-compLab-Lcmims1-2.genruntimeconfig.cache
